@@ -1,2 +1,2 @@
-todo app to lear ReactJS.
+todo app to learn ReactJS.
 Vinh2203
